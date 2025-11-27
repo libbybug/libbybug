@@ -22,3 +22,5 @@ Welcome to my profile, here is a little bit about me... </br>
 Check out my [portfolio](https://ainsleyt14.myportfolio.com/)💫
 
 <a href="mailto:ainsleyt14@gmail.com">Let's Connect!</a>
+
+![Ainsley's GitHub stats](https://github-readme-stats.vercel.app/api?username=libbybug&show_icons=true&theme=radical)
