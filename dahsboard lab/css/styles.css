@@ -1660,15 +1660,15 @@
 
 */
 
-/* Welcome heading moves */
+/* Welcome heading moves / slides from right to left */
 @keyframes headerSlide {
  0% {
   opacity: 0;
-  transform: translate(12px);
+  transform: translateX(12px); /* X-axis slide */
  }
  100% {
   opacity: 1;
-  transform: translate(0);
+  transform: translateX(0);
  }
 }
 
@@ -1676,25 +1676,31 @@
   animation: headerSlide 2s ease-in-out;
 }
 
-/* Wiggle of the Orders Pending */
+/* 
+  Orders pending -> alertBounce
+  Baseline of 0
+  Clockwise: is positive
+  Counterclockwise: negative
+*/
 @keyframes alertBounce {
   0% {
-    transform: rotate(0deg);
+    transform: rotate(0deg); /* Where it begins (baseline) */
   }
   25% {
-    transform: rotate(-3deg);
+    transform: rotate(-4deg); /* tilt */
   }
   50% {
-    transform: rotate(3deg);
+    transform: rotate(4deg); /* tilt */
   }
   75% {
-    transform: rotate(-3deg);
+    transform: rotate(-4deg); /* tilt */
   }
   100% {
-    transform: rotate(0deg);
+    transform: rotate(0deg); /* Back to baseline */
   }
 }
 .notify {
   animation: alertBounce 0.5s ease-in-out;
+  /* Delay so it isn't missed when the page refreshes */
   animation-delay: 2s;
 }
