@@ -1,4 +1,4 @@
-## Check out my cool [Dashboard Project](https://ainsleyt14.myportfolio.com/)! </br>
+## Check out my cool [Dashboard Project]([animateddashboard.netlify.app](https://animateddashboard.netlify.app/))! </br>
 This project was initially assigned as a lab for my Web Design & Usability class at NAIT, I have then taken my submission and incorporated some CSS animations! </br>
 
 ## Tutorials and References: </br>
