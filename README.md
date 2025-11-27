@@ -1,6 +1,5 @@
-## Hi there 👋
-
 <!--
+## Hi, I'm Ainsley! 👋
 **libbybug/libbybug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi, I'm Ainsley!
+Welcome to my profile, here is a little bit about me... </br>
+✨ Currently studying Web Design & Development at the Northern Alberta Institute of Technology</br>
+💭 Honours student </br>
+🌱 Focusing on UI/UX Design </br>
+
+<a href="mailto:ainsleyt14@gmail.com">Let's Connect!</a>
