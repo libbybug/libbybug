@@ -34,3 +34,4 @@ Check out my [portfolio](https://ainsleyt14.myportfolio.com/)💫
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Profile tutorial [Youtube - Magdeline Huang]( https://www.youtube.com/watch?v=DWFs6aqknqw&t=314s )-->
