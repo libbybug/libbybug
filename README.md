@@ -19,4 +19,6 @@ Welcome to my profile, here is a little bit about me... </br>
 💭 Honours student </br>
 🌱 Focusing on UI/UX Design </br>
 
+Check out my [portfolio](https://ainsleyt14.myportfolio.com/)💫
+
 <a href="mailto:ainsleyt14@gmail.com">Let's Connect!</a>
